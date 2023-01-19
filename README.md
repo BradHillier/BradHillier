@@ -16,9 +16,7 @@
 <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="" alt="" width="40" height="40" />&nbsp;
 </div>
-
-### :fire: My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradhillier&theme=dark&background=000000)
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BradHillier&layout=compact&theme=vision-friendly-dark)
 
