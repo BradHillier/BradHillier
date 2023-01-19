@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=BradHillier&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+### :man_technologist: About Me :
+I am currently a second year computer science student at Vancouver Island University
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
