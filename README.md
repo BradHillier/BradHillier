@@ -10,6 +10,7 @@ I am a second year computer science student at Vancouver Island University
 
 - 🌱 I’m currently learning about object-orient programming, database design, systems and networks and systems analysis
 - 🔭 I’m currently working on the early design stages of a collaborative flash card application
+- ⛷️ Fun fact: I love all things outdoors and used to work as a kayaking tour guide and ski instructor
 
 
 ### :hammer_and_wrench: Languages and Tools :
