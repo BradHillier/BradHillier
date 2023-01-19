@@ -5,7 +5,7 @@
 </div>
 
 
-### :man_technologist: About Me :
+### 👨🏻‍💻 About Me :
 I am a second year computer science student at Vancouver Island University
 
 - 🌱 I’m currently learning about object-orient programming, database design, systems and networks and systems analysis
