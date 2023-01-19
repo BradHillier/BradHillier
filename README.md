@@ -23,6 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="" alt="" width="40" height="40" />&nbsp;
 </div>
 
+### :fire: My Stats :
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradhillier&theme=dark&background=000000)
+
 <!--
 **BradHillier/BradHillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
