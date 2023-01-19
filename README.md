@@ -4,7 +4,9 @@
 
 
 ### :man_technologist: About Me :
-I am currently a second year computer science student at Vancouver Island University
+I am a second year computer science student at Vancouver Island University
+
+- 🌱 I’m currently learning about object-orient programming, database design, systems and networks and systems analysis
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
