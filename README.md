@@ -7,6 +7,8 @@
 I am a second year computer science student at Vancouver Island University
 
 - 🌱 I’m currently learning about object-orient programming, database design, systems and networks and systems analysis
+- 🔭 I’m currently working on the early design stages of a collaborative flash card application
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -33,7 +35,7 @@ I am a second year computer science student at Vancouver Island University
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
