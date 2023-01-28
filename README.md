@@ -1,9 +1,4 @@
-# 👋 Hello, world! My name is Brad Hillier.
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=BradHillier&style=flat-square&color=blue" alt=""/>
-</div>
-
+# Hello, world! My name is Brad Hillier.
 
 ### 👨🏻‍💻 About Me :
 I am a second year computer science student at Vancouver Island University
