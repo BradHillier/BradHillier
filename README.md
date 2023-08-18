@@ -1,11 +1,11 @@
 # Hello, world! My name is Brad Hillier.
 
 ### 👨🏻‍💻 About Me :
-I am a second year computer science student at Vancouver Island University
-
-- 🌱 I’m currently learning about object-orient programming, database design, systems and networks and systems analysis
-- 🔭 I’m currently working on the early design stages of a collaborative flash card application
-- ⛷️ Fun fact: I love all things outdoors and used to work as a kayaking tour guide and ski instructor
+I am a third year computer science student at Vancouver Island University
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently on summer vacation teaching kayaking lessons part-time
+- 🔭 I’m currently working on a customer relation management API for a kayak rental shop using Flask
+- ⛷️ Fun fact: I love all things outdoors and used to as a ski instructor
 
 
 ### :hammer_and_wrench: Languages and Tools :
