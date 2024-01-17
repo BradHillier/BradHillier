@@ -3,9 +3,8 @@
 ### 👨🏻‍💻 About Me :
 I am a third year computer science student at Vancouver Island University
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently on summer vacation teaching kayaking lessons part-time
-- 🔭 I’m currently working on a customer relation management API for a kayak rental shop using Flask
-- ⛷️ Fun fact: I love all things outdoors and used to as a ski instructor
+- 🌱 I’m currently studying networking and gaining hands-on experience using sockets
+- 🔭 I’m currently implementing an FTP client and server in C as part of my Networking & Communications course
 
 
 ### :hammer_and_wrench: Languages and Tools :
