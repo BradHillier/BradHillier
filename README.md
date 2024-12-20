@@ -1,10 +1,10 @@
 # Hello, world! My name is Brad Hillier.
 
 ### 👨🏻‍💻 About Me :
-I am a third year computer science student at Vancouver Island University
+I am a fourth year computer science student at Vancouver Island University
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently studying networking and gaining hands-on experience using sockets
-- 🔭 I’m currently implementing an FTP client and server in C as part of my Networking & Communications course
+- 🌱 I’m currently studying compilers and linear programming
+- 🔭 I’m currently working on a data bashboard for the Shambhala music festival
 
 
 ### :hammer_and_wrench: Languages and Tools :
