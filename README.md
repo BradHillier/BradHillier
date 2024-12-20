@@ -4,7 +4,7 @@
 I am a fourth year computer science student at Vancouver Island University
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently studying compilers and linear programming
-- 🔭 I’m currently working on a data bashboard for the Shambhala music festival
+- 🔭 I’m currently working on a data dashboard for the Shambhala music festival
 
 
 ### :hammer_and_wrench: Languages and Tools :
